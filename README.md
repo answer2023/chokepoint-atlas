@@ -76,13 +76,13 @@ In one line:
 
 ## Install
 
-Install the skill as `ai-supply-chain-bottleneck-hunter`:
+Install the skill as `chokepoint`:
 
 ```bash
 python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
   --repo qiuqiubuchongle-cloud/chokepoint-atlas \
   --path . \
-  --name ai-supply-chain-bottleneck-hunter
+  --name chokepoint
 ```
 
 If the default download mode fails, use git mode:
@@ -91,7 +91,7 @@ If the default download mode fails, use git mode:
 python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
   --repo qiuqiubuchongle-cloud/chokepoint-atlas \
   --path . \
-  --name ai-supply-chain-bottleneck-hunter \
+  --name chokepoint \
   --method git
 ```
 

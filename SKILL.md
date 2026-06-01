@@ -1,5 +1,5 @@
 ---
-name: ai-supply-chain-bottleneck-hunter
+name: chokepoint
 description: Use when the user wants a repeatable AI/photonics/semiconductor supply-chain research workflow inspired by Serenity (@aleabitoreddit) and Crux Capital, including bottleneck mapping, stack analysis, evidence gathering from reports/news/earnings, directional sector calls, and optional lower-market-cap candidate names only after the thesis is built.
 ---
 

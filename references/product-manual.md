@@ -1,6 +1,6 @@
 # Product Manual
 
-This file is the complete usage manual for `ai-supply-chain-bottleneck-hunter`.
+This file is the complete usage manual for `chokepoint`.
 
 Use it when:
 
@@ -289,7 +289,7 @@ This skill is failing if it does any of these:
 
 ### Example 1: Direction First
 
-`Use $ai-supply-chain-bottleneck-hunter to tell me the next AI infrastructure bottleneck. Do not give me stocks yet.`
+`Use $chokepoint to tell me the next AI infrastructure bottleneck. Do not give me stocks yet.`
 
 Expected output:
 
@@ -300,7 +300,7 @@ Expected output:
 
 ### Example 2: Direction Then Names
 
-`Continue with $ai-supply-chain-bottleneck-hunter. Now give me 5 names, split by executor / pure bottleneck / optionality.`
+`Continue with $chokepoint. Now give me 5 names, split by executor / pure bottleneck / optionality.`
 
 Expected output:
 
@@ -309,7 +309,7 @@ Expected output:
 
 ### Example 3: Single Name
 
-`Use $ai-supply-chain-bottleneck-hunter to underwrite AXTI.`
+`Use $chokepoint to underwrite AXTI.`
 
 Expected output:
 
